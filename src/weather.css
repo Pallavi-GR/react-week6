@@ -2,6 +2,7 @@
   font-family: Arial, Helvetica, sans-serif;
   border: 1px solid #dadde1;
   padding: 16px;
+  margin: auto auto;
   border-radius: 4px;
   color: rgb(135, 135, 135);
 }
@@ -49,4 +50,11 @@
   line-height: 1;
   top: -34px;
   margin-left: 1px;
+}
+.weather .col-1 .btn {
+  margin-left: 0px;
+  padding-left: 0;
+  color: rgb(243, 72, 78);
+  border: 1 px solid rgb(243, 72, 78);
+  border-radius: 4px;
 }
