@@ -1,9 +1,9 @@
 .weather {
   font-family: Arial, Helvetica, sans-serif;
-  border: 1px solid #dadde1;
+  border: 1px solid rgb(211, 202, 202);
   padding: 16px;
   margin: auto auto;
-  border-radius: 4px;
+  border-radius: 5px;
   color: rgb(135, 135, 135);
 }
 
@@ -55,6 +55,6 @@
   margin-left: 0px;
   padding-left: 0;
   color: rgb(243, 72, 78);
-  border: 1 px solid rgb(243, 72, 78);
-  border-radius: 4px;
+  border: 1 px solid rgb(218, 202, 202);
+  border-radius: 5px;
 }

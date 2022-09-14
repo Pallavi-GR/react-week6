@@ -7,13 +7,13 @@ export default function App() {
     <div className="App">
       <div className="container">
         <header className="container">
+          <h1 className="title"> Weather App </h1>
           <Weather defaultCity="Bangalore" />
         </header>
-
         <footer>
           This page is code by Pallavi G R and is Open-sourded on GITHUB{" "}
           <a
-            href="https://github.com/Pallavi-GR/react-week5.git"
+            href="https://github.com/Pallavi-GR/react-week6.git"
             target="_blank"
             rel="noopener noreferrer"
           >
